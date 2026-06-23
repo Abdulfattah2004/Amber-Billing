@@ -4,7 +4,7 @@ A comprehensive billing, invoicing, inventory, and business management solution 
 
 ## Overview
 
-Amber Billing System provides an all-in-one platform for managing sales, inventory, customers, suppliers, expenses, and financial reports. The system is designed to improve operational efficiency while providing accurate and real-time business data.
+Amber Billing System provides an all-in-one platform for customers, suppliers, expenses, and financial reports. The system is designed to improve operational efficiency while providing accurate and real-time business data.
 
 ## Key Features
 
